@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ky Anh (botodale)</h1>
 <h3 align="center">A passionate software engineer from Vietnam and can understand and implement AI/ML models</h3>
 
-<h3 align="left" style="font-size: 24px;">Technologies and Tools</h3>
+<h3 align="center" style="font-size: 24px;">Technologies and Tools</h3>
 
 <p align="center">
   <!-- Frontend -->
