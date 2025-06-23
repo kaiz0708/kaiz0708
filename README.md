@@ -38,20 +38,6 @@
 </p>
 
 <p align="center">
-  <!-- AI / Machine Learning -->
-  <strong style="font-size: 20px;">AI / Machine Learning</strong><br>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50">
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50">
-  </a>
-</p>
-
-<p align="center">
   <!-- Database -->
   <strong style="font-size: 20px;">Database</strong><br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 20px;">
