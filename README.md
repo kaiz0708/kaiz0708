@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ky Anh (botodale)</h1>
-<h3 align="center">I love building backend systems that run smoothly and solve real problems. Always up for new tech, performance tuning, and tough challenges.</h3>
 
 <h3 align="center" style="font-size: 24px;">Technologies and Tools</h3>
 
